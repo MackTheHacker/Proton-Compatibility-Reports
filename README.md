@@ -1,10 +1,19 @@
-A report of all of the games I've played via Steam's Proton Compatibility tool. 
+<html> 
+<header><h1>A report of games I've played via Steam's Proton Tool.</h1></header>
 
-System Specs: 
+<body><h2>System Specs:</h2> 
 
-Distro:Pop!_OS 18.10 (Using KDE Plasma DE) 
-Kernel:4.18.0-15-generic
-RAM:16 GB
-GPU Driver:NVIDIA 418.43
-GPU:NVIDIA GeForce GTX 1080
-CPU:Intel Core i5-4690K @ 3.50GHz
+	<p><b>Distro:</b>Pop!_OS 18.10 Using KDE Plasma DE</p> 
+
+	<p><b>Kernel:</b>4.18.0-15-generic</p>
+
+	<p><b>RAM:</b>16 GB</p>
+
+	<p><b>GPU Driver:</b>NVIDIA 418.43</p>
+
+	<p><b>GPU:</b>NVIDIA GeForce GTX 1080</p>
+
+	<p><b>CPU:</b>Intel Core i5-4690K @ 3.50GHz</p>
+
+</body>
+</html>
