@@ -1,6 +1,6 @@
 <html> 
 <header><h1>A report of games I've played via Steam's Proton Tool.</h1></header>
-
+  <h2> See Protondb for breakdown of ratings </h2> 
 <body>
 <h2>System Specs:</h2>
 
