@@ -40,6 +40,10 @@ update. NPC audio doesn't work, but performance is fine.
 Bronze: 
 
 
+Dark Souls: Remastered - Frequently crashes after character
+creation screen. Sometimes I can progress past it, other times it crashes to
+desktop. Tried installing vcrun2017 and remivung MovWW folder
+
 
 Borked: 
 
