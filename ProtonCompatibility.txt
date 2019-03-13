@@ -1,0 +1,46 @@
+Platinum: 
+
+Wolfenstein: The New Order - Runs at a locked 60 FPS out of the box
+on Ultra settings. Had a few minor issues with lockups, but that seemed to
+resolve itself on reboot.  
+
+Dark Souls III - Runs perfectly out of the box with the Steam controller. Still
+got my butt handed to me by Index Gundyr. 
+
+Call of Juarez Gunslinger - No issues out of the box on first playthrough, but
+updating drivers and proton versions seemed to cause audio distortion. Will be
+Platinum for now since it was working fine before updates. 
+
+Gold:
+
+Wolfenstein: The New Colossus - Runs exceptionally well out of the box (~90 FPS
+on Ultra settings). Had some issues with texture artifacting and audio
+crackling. Overall pleasant experience.  
+
+Prey - Runs exceptionally well, but has some weird visual artifacts (such as
+white flickering on Alex Yu's hair). Not super distracting, but does hamper
+immersion factor. 
+
+Silver: 
+
+Binary Domain - Performance drops significantly when robots explode (but still
+playable). Has some issues with audio crackling on Proton 3.7. 
+
+Blur - Maxed out Anti-Aliasing breaks the game, as models fail to render.
+Turning it off fixed that issue. Has some performance issues with drops down to
+~40 FPS. 
+
+Monster Hunter World - Significant performance hit (30-40%) running in Proton
+over native Windows 10. Despite lowering many advanced settings and enabling
+adaptive resolution, still doesn't get to a locked 60 FPS.
+
+Warframe - Need to rename launcher.exe or else you get an infinite loop on
+update. NPC audio doesn't work, but performance is fine. 
+
+Bronze: 
+
+
+
+Borked: 
+
+Nioh - launcher works, audio works, but black screen on booting into the game. 
