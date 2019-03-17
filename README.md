@@ -4,7 +4,7 @@
 <body>
 <h2>System Specs:</h2>
 
-<p><b>Distro: Pop!_OS 18.10 (KDE Plasma DE)</p> 
+<p><b>Distro: Pop!_OS 18.10 (Solus as of Dying Light)</p>
 
 <p><b>Kernel:</b>4.18.0-15-generic</p>
 
