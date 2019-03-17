@@ -11,6 +11,10 @@ Call of Juarez Gunslinger - No issues out of the box on first playthrough, but
 updating drivers and proton versions seemed to cause audio distortion. Will be
 Platinum for now since it was working fine before updates. 
 
+Dying Light - Had some issues with OBS hurting framerate a lot, but once I
+tweaked settings, it ran incredibly well. Looks and plays great and online
+multiplayer works with no issues too. 
+
 Gold:
 
 Wolfenstein: The New Colossus - Runs exceptionally well out of the box (~90 FPS
