@@ -25,10 +25,11 @@ Prey - Runs exceptionally well, but has some weird visual artifacts (such as
 white flickering on Alex Yu's hair). Not super distracting, but does hamper
 immersion factor. 
 
-Silver: 
+Binary Domain - Robots exploding has a minor impact on framerate, but only by a
+few FPS. Some minor framerate drops here and there in combat, but pretty
+smooth. 
 
-Binary Domain - Performance drops significantly when robots explode (but still
-playable). Has some issues with audio crackling on Proton 3.7. 
+Silver: 
 
 Blur - Maxed out Anti-Aliasing breaks the game, as models fail to render.
 Turning it off fixed that issue. Has some performance issues with drops down to
