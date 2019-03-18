@@ -1,5 +1,9 @@
 Platinum: 
 
+Mushihimesame - Runs perfectly out of the box, no configuration needed. No
+framerate drops nor visual glitches. Supported my arcade stick natively with no
+issues. 
+
 Wolfenstein: The New Order - Runs at a locked 60 FPS out of the box
 on Ultra settings. Had a few minor issues with lockups, but that seemed to
 resolve itself on reboot.  
