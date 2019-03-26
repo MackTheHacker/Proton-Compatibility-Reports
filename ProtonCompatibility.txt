@@ -1,5 +1,8 @@
 Platinum: 
 
+Sekiro: Shadows Die Twice - Runs perfectly out of the box. Getting a near
+locked 60 FPS at 1440p on high settings.
+
 Mushihimesame - Runs perfectly out of the box, no configuration needed. No
 framerate drops nor visual glitches. Supported my arcade stick natively with no
 issues. 
