@@ -1,5 +1,9 @@
 Platinum: 
 
+Risk of Rain 2 - Runs fairly well for an early access game. Framerate dips a
+bit in very hectic fights and crashed on exit (requiring sig kill), but no
+issues in single player so far. 
+
 Sekiro: Shadows Die Twice - Runs perfectly out of the box. Getting a near
 locked 60 FPS at 1440p on high settings.
 
