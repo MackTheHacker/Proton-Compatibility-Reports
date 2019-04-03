@@ -72,5 +72,7 @@ Dark Souls: Remastered - Frequently crashes after character
 creation screen. Sometimes I can progress past it, other times it crashes to
 desktop. Tried installing vcrun2017 and remivung MovWW folder
 
+Borked: 
 
+Shadows: Awakening - Stuck at black screen on launch. No audio and game is not responsive to input. 
 
