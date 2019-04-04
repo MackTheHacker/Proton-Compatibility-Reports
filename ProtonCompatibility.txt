@@ -26,6 +26,9 @@ Dying Light - Had some issues with OBS hurting framerate a lot, but once I
 tweaked settings, it ran incredibly well. Looks and plays great and online
 multiplayer works with no issues too. 
 
+Downwell - Has some flickering issues when restarting the
+level, but runs perfectly otherwise.
+
 Gold:
 
 Wolfenstein: The New Colossus - Runs exceptionally well out of the box (~90 FPS
@@ -39,6 +42,9 @@ immersion factor.
 Binary Domain - Robots exploding has a minor impact on framerate, but only by a
 few FPS. Some minor framerate drops here and there in combat, but pretty
 smooth. 
+
+Super House of Dead Ninjas - Has some performance drops every now and then, but
+runs great otherwise. 
 
 Silver: 
 
