@@ -48,6 +48,11 @@ runs great otherwise.
 
 Silver: 
 
+Borderlands 2 - Running on Proton to use the UHD texture pack. Needed to rename
+the Launcher.exe file and symlink Borderlands2.exe as Launcher.exe. Performs
+mostly fine (there are some dips) and there are the occasional broken textures
+(such as bodies of water). 
+
 Blur - Maxed out Anti-Aliasing breaks the game, as models fail to render.
 Turning it off fixed that issue. Has some performance issues with drops down to
 ~40 FPS. 
@@ -58,6 +63,13 @@ adaptive resolution, still doesn't get to a locked 60 FPS.
 
 Warframe - Need to rename launcher.exe or else you get an infinite loop on
 update. NPC audio doesn't work, but performance is fine. 
+
+Bronze: 
+
+
+Dark Souls: Remastered - Frequently crashes after character
+creation screen. Sometimes I can progress past it, other times it crashes to
+desktop. Tried installing vcrun2017 and remivung MovWW folder
 
 Nioh - lots of tweaks are needed to get it to run. I've done as follows:
 1). Disable Esync in launch options
@@ -71,12 +83,8 @@ PROTON_NO_ESYNC=1 PROTON_FORCE_LARGE_ADDRESS_AWARE=1 DXVK_CONFIG_FILE="/home/you
 Once all of that is done, the game loads into the main menu (the cinematic
 fails to render, I'd imagine this is an issue common to all pre-rendered
 cutscenes) and plays fine in-game.
-Bronze: 
 
-
-Dark Souls: Remastered - Frequently crashes after character
-creation screen. Sometimes I can progress past it, other times it crashes to
-desktop. Tried installing vcrun2017 and remivung MovWW folder
+EDIT: Past the intro level in England, the game crashes a significant amount. 
 
 Borked: 
 
