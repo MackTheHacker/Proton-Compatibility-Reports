@@ -31,6 +31,10 @@ level, but runs perfectly otherwise.
 
 Gold:
 
+RAGE 2 - has random crashes in the menu, but this is fixed by enabling v-sync
+and borderless windowed mode. After that, the game plays incredibly well,
+running at a near locked 60 FPS. No issues otherwise. 
+
 Wolfenstein: The New Colossus - Runs exceptionally well out of the box (~90 FPS
 on Ultra settings). Had some issues with texture artifacting and audio
 crackling. Overall pleasant experience.  
