@@ -31,9 +31,18 @@ level, but runs perfectly otherwise.
 
 Gold:
 
+Bright Memory - has some minor performance drops occasionally, but still very
+playable most of the time at 60 FPS. 
+
+Blood: Fresh Supply - has some stuttering for the first few minutes of
+gameplay. Eventually, the stutter goes away after a few minutes of play (maybe
+a shader caching issue?) Plays great after that. 
+
 RAGE 2 - has random crashes in the menu, but this is fixed by enabling v-sync
 and borderless windowed mode. After that, the game plays incredibly well,
-running at a near locked 60 FPS. No issues otherwise. 
+running at a near locked 60 FPS. No issues otherwise. (Edit: Disabling a-sync
+compute can be done instead of running v-sync and borderless windowed, thought
+it does have a slight impact on performance.)
 
 Wolfenstein: The New Colossus - Runs exceptionally well out of the box (~90 FPS
 on Ultra settings). Had some issues with texture artifacting and audio
@@ -51,6 +60,13 @@ Super House of Dead Ninjas - Has some performance drops every now and then, but
 runs great otherwise. 
 
 Silver: 
+
+The Evil Within - Performance is mostly fine and controls rather
+well, but sound is completely missing until you add in xaudio libraries in the
+	wineconfig. 
+
+Homefront: The Revolution - Performance is fine, but has some major graphical
+issues. I've noticed missing ground and NPC textures. 
 
 ECHO - game itself runs at a very nice performance with no obvious graphical issues.
 However, the cutscenes don't play in-game, so the story becomes very hard to follow. 
