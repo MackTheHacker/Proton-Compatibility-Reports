@@ -1,5 +1,8 @@
 Platinum: 
 
+Halo Wars - Runs perfectly out of the box. No issues with skirmish or online
+multiplayer. 
+
 Risk of Rain 2 - Runs fairly well for an early access game. Framerate dips a
 bit in very hectic fights and crashed on exit (requiring sig kill), but no
 issues in single player so far. 
@@ -61,9 +64,13 @@ runs great otherwise.
 
 Silver: 
 
-The Evil Within - Performance is mostly fine and controls rather
-well, but sound is completely missing until you add in xaudio libraries in the
-	wineconfig. 
+Age of Empires 3 - Winetricks is needed to enter in the product key, otherwise
+it complains about missing PID (see ProtonDB for specifics). Sound sometimes
+cuts out after playing for a while and I have issues playing online. 
+
+The Evil Within - Performance is mostly fine and controls rather well, but
+sound is completely missing until you add in xaudio libraries in the
+wineconfig. 
 
 Homefront: The Revolution - Performance is fine, but has some major graphical
 issues. I've noticed missing ground and NPC textures. 
