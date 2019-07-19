@@ -34,8 +34,13 @@ level, but runs perfectly otherwise.
 
 Gold:
 
-Bright Memory - has some minor performance drops occasionally, but still very
-playable most of the time at 60 FPS. 
+Dragon's Dogma: Dark Arisen - Fairly mediocre performance out of the box, but
+can be fixed with d9vk. After that, runs at a smooth framerate with an
+infrequent stutter. Sometimes has graphical glitches when alt-tabbing. No other
+issues noticed.  
+
+Bright Memory - has some minor performance drops occasionally,
+but still very playable most of the time at 60 FPS. 
 
 Blood: Fresh Supply - has some stuttering for the first few minutes of
 gameplay. Eventually, the stutter goes away after a few minutes of play (maybe
