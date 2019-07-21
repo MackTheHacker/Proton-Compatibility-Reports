@@ -1,5 +1,7 @@
 Platinum: 
 
+
+
 Halo Wars - Runs perfectly out of the box. No issues with skirmish or online
 multiplayer. 
 
@@ -68,6 +70,13 @@ Super House of Dead Ninjas - Has some performance drops every now and then, but
 runs great otherwise. 
 
 Silver: 
+
+ Sleeping Dogs Definitive Edition - Need to use winetricks:
+ '/home/steamdir/Steam/steamapps/compatdata/307690/pfx winecfg' Click on
+ graphics tab, enable virtual desktop, and set resolution.  On game launch,
+ there will be a white screen. You need to move the application window to
+ another workspace and back. Past that, runs perfectly. Audio becomes distorted
+ if you max is out, so make sure it's at 80% or so. 
 
 Age of Empires 3 - Winetricks is needed to enter in the product key, otherwise
 it complains about missing PID (see ProtonDB for specifics). Sound sometimes
