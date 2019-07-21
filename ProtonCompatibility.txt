@@ -71,12 +71,14 @@ runs great otherwise.
 
 Silver: 
 
- Sleeping Dogs Definitive Edition - Need to use winetricks:
- '/home/steamdir/Steam/steamapps/compatdata/307690/pfx winecfg' Click on
- graphics tab, enable virtual desktop, and set resolution.  On game launch,
- there will be a white screen. You need to move the application window to
- another workspace and back. Past that, runs perfectly. Audio becomes distorted
- if you max is out, so make sure it's at 80% or so. 
+Dark Souls: Remastered  - need to install vcrun2017, but runs great after that.
+
+Sleeping Dogs Definitive Edition - Need to use winetricks:
+'/home/steamdir/Steam/steamapps/compatdata/307690/pfx winecfg' Click on
+graphics tab, enable virtual desktop, and set resolution.  On game launch,
+there will be a white screen. You need to move the application window to
+another workspace and back. Past that, runs perfectly. Audio becomes distorted
+if you max is out, so make sure it's at 80% or so. 
 
 Age of Empires 3 - Winetricks is needed to enter in the product key, otherwise
 it complains about missing PID (see ProtonDB for specifics). Sound sometimes
@@ -110,10 +112,6 @@ update. NPC audio doesn't work, but performance is fine.
 
 Bronze: 
 
-
-Dark Souls: Remastered - Frequently crashes after character
-creation screen. Sometimes I can progress past it, other times it crashes to
-desktop. Tried installing vcrun2017 and remivung MovWW folder
 
 Nioh - lots of tweaks are needed to get it to run. I've done as follows:
 1). Disable Esync in launch options
